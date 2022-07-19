@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunal0-0
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++,python
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: insta@ _.kunal0_0
 
 <!---
