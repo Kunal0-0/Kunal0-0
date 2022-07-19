@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: insta@ _.kunal0_0
+- LinkedIn: https://www.linkedin.com/in/kunal-uppal-968837168/
 
 <!---
 Kunal0-0/Kunal0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
