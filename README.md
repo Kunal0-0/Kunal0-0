@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kunal0-0
-- 👀 I’m interested in Software Development,Web Development
+- 👀 I’m interested in Software Development, Web Development
 - 📫 How to reach me: insta@ _.kunal0_0
 - LinkedIn: https://www.linkedin.com/in/kunal-uppal-968837168/
 
